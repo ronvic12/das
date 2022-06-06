@@ -32,7 +32,14 @@ You should replay any **bold text** with your relevant information. Liberally us
 
 The user interface is designed based on the core game logic and any information we believe is necessary for the player to have when challenging the Demon King. There are four scenes, three of which are for purposes of the user interface only. Any buttons or interactables in the UI have simple shadows when hovered or clicked to provide feedback to the player, letting them know a button is interactable or that they have successfully clicked the button. All user interfaces were tested for any major discrepancies between differing monitor specs and should display properly for all aspect ratios and resolutions.
 
+The user interface is designed based on the core game logic and giving necessary information to provide better user experience for the players. Our game is a platform game and providing these five scenes helps the players to interact to the game itself.
 <img width="532" alt="Screen Shot 2022-06-06 at 1 34 51 AM" src="https://user-images.githubusercontent.com/58205103/172125964-93db4ae1-5b5d-4386-8274-509bfdaf82f8.png">
+
+Easy Scene - This Scene provides "Easy Difficulty" gameplay where their less enemies and the enemies are weaker.
+Ending Scene - This Scene provides "Ending Menu Scene" where it asks the player to play again or go back to the main menu. 
+Hard Scene - This Scene provides "Hard Difficulty" gameplay where their more enemies and the enemies are stronger than "Medium Difficulty".
+MainMenu Scene -  This Scene
+Medium Scene - This Scene provides "Medium Difficulty" gameplay where their more enemies and the enemies are stronger than "Easy Difficulty".
 
 [HealthBarUi](https://user-images.githubusercontent.com/58205103/172116292-bb675fba-2b91-49e9-b82a-311701dba67a.png) - The HealthBar UI is anchored to the top left of the screen to adjust to any resolution, as well as communicate with the player how big is the damage that is taken from the enemy. The HealthBar of the player is set into 100 HP. The Player will be taken damage if the enemy collided onto the player. Health is checked on every update and the UI is updated accordingly. [Health Update code here](https://github.com/breliu-dv/KnightQuest/blob/37519690f1b5ff7f8343d983feb7f3d123c4764d/Assets/Scripts/KnightController.cs#L369)
 

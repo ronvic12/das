@@ -91,7 +91,7 @@ The user interface is designed based on the core game logic and giving necessary
 
 **Document how the narrative is present in the game via assets, gameplay systems, and gameplay.** 
 
-# Map Level Design
+### Map Level Design
 - Our designation of the map were designed to be harder as the player progresses onto the map itself.  
 
 **Here is the Explanation below on how the map was design when the player is able to progress through it.**
@@ -101,6 +101,7 @@ The user interface is designed based on the core game logic and giving necessary
 
 - This map level design starts with a very simple spike trap on the **first layer of the cave** and there are only two [green slime enemies](https://user-images.githubusercontent.com/58205103/172133122-672c2ce3-3378-493f-8244-86185c618969.png). As you go deeper into the **second layer of the cave**, you notice there are more green slime enemies that is been spawn and spawning more traps and introduce new trap called "the raining spikes". Once you reach out to the **purple layer of the cave**, there will be more and more enemies will be spawn, more traps that is introduce such as acid lake and disappearing platforms. The main core of introduction in  **purple layer of the cave** are [redslime enemies](https://user-images.githubusercontent.com/58205103/172133457-36292440-3c63-4507-aa01-2c012903d3e1.png) and [blueslime enemies](https://user-images.githubusercontent.com/58205103/172133473-58f5ca6e-438f-4a64-b0a2-a8c361995330.png). 
 
+### Narrative Design
 
 ## Press Kit and Trailer
 

@@ -38,8 +38,17 @@ The user interface is designed based on the core game logic and giving necessary
 - Easy Scene - This Scene provides "Easy Difficulty" gameplay where their less enemies and the enemies are weaker.
 - Ending Scene - This Scene provides "Ending Menu Scene" where it asks the player to play again or go back to the main menu. 
 - Hard Scene - This Scene provides "Hard Difficulty" gameplay where their more enemies and the enemies are stronger than "Medium Difficulty".
-- MainMenu Scene -  This Scene
+- MainMenu Scene -  This Scene provides three things "Play Game", "Controls" and "Quit" button.
 - Medium Scene - This Scene provides "Medium Difficulty" gameplay where their more enemies and the enemies are stronger than "Easy Difficulty".
+
+
+### Gameplay UI
+The Gameplay UI provided tons of pop-up menus which allows the players to explore and have more fun with the game. 
+
+<img width="894" alt="Screen Shot 2022-06-06 at 12 25 15 AM" src="https://user-images.githubusercontent.com/58205103/172207449-3cf7ee82-ef2f-4802-95ca-44a13c2287c5.png">
+
+Pop-up MainMenu - This is the main scene when you are about to start the game. Players can look the controls before they start the game. 
+Pop-up ControlMenu - This menu provides players to look at the controls before they start the game. Based on the feedback from other players non-group members, they are quite confuse on what are the controls of the game. So we decided to add a control menu in order to help the players play the game without guessing the controls. These control menu only provides on desktop version, since the mobile version are pretty straightforward. 
 
 [HealthBarUi](https://user-images.githubusercontent.com/58205103/172116292-bb675fba-2b91-49e9-b82a-311701dba67a.png) - The HealthBar UI is anchored to the top left of the screen to adjust to any resolution, as well as communicate with the player how big is the damage that is taken from the enemy. The HealthBar of the player is set into 100 HP. The Player will be taken damage if the enemy collided onto the player. Health is checked on every update and the UI is updated accordingly. [Health Update code here](https://github.com/breliu-dv/KnightQuest/blob/37519690f1b5ff7f8343d983feb7f3d123c4764d/Assets/Scripts/KnightController.cs#L369)
 

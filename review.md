@@ -90,6 +90,9 @@ The user interface is designed based on the core game logic and giving necessary
 ## MapLevel and Narrative Design
 
 **Document how the narrative is present in the game via assets, gameplay systems, and gameplay.** 
+
+# Map Level Design
+- Our designation of the map were designed to be harder as the player progresses onto the map itself. Explain below on how the map was design when the player is able to progress through it. 
 <img width="935" alt="Screen Shot 2022-06-06 at 1 50 24 AM" src="https://user-images.githubusercontent.com/58205103/172128787-217d852f-a624-4d46-a84b-ca800c25e25d.png">
 
 

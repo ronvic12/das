@@ -47,8 +47,14 @@ The Gameplay UI provided tons of pop-up menus which allows the players to explor
 
 <img width="894" alt="Screen Shot 2022-06-06 at 12 25 15 AM" src="https://user-images.githubusercontent.com/58205103/172207449-3cf7ee82-ef2f-4802-95ca-44a13c2287c5.png">
 
-Pop-up MainMenu - This is the main scene when you are about to start the game. Players can look the controls before they start the game. 
-Pop-up ControlMenu - This menu provides players to look at the controls before they start the game. Based on the feedback from other players non-group members, they are quite confuse on what are the controls of the game. So we decided to add a control menu in order to help the players play the game without guessing the controls. These control menu only provides on desktop version, since the mobile version are pretty straightforward. 
+- Pop-up MainMenu - This is the main scene when you are about to start the game. Players can look the controls before they start the game. 
+
+
+- Pop-up ControlMenu - This menu provides players to look at the controls before they start the game. Based on the feedback from other players non-group members, they are quite confuse on what are the controls of the game. So we decided to add a control menu in order to help the players play the game without guessing the controls. These control menu only provides on desktop version, since the mobile version are pretty straightforward. 
+
+- Narrative(Mission) UI - I added a [mission narrative UI](https://drive.google.com/file/d/1mJtjdSWjwBttYB0ggX10bPFK7CWL_Yp7/view?usp=sharing) to explain the objective of the game and explain a mini-backstory.
+
+
 
 [HealthBarUi](https://user-images.githubusercontent.com/58205103/172116292-bb675fba-2b91-49e9-b82a-311701dba67a.png) - The HealthBar UI is anchored to the top left of the screen to adjust to any resolution, as well as communicate with the player how big is the damage that is taken from the enemy. The HealthBar of the player is set into 100 HP. The Player will be taken damage if the enemy collided onto the player. Health is checked on every update and the UI is updated accordingly. [Health Update code here](https://github.com/breliu-dv/KnightQuest/blob/37519690f1b5ff7f8343d983feb7f3d123c4764d/Assets/Scripts/KnightController.cs#L369)
 

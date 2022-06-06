@@ -31,7 +31,7 @@ You should replay any **bold text** with your relevant information. Liberally us
 **Describe your user interface and how it relates to gameplay. This can be done via the template.**
 [Healthbar Ui]([(https://user-images.githubusercontent.com/58205103/172116292-bb675fba-2b91-49e9-b82a-311701dba67a.png])
 
-![HealthBarUi](https://user-images.githubusercontent.com/58205103/172116292-bb675fba-2b91-49e9-b82a-311701dba67a.png)
+[HealthBarUi](https://user-images.githubusercontent.com/58205103/172116292-bb675fba-2b91-49e9-b82a-311701dba67a.png)
 
 
 ## Movement/Physics

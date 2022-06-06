@@ -93,6 +93,8 @@ The user interface is designed based on the core game logic and giving necessary
 <img width="935" alt="Screen Shot 2022-06-06 at 1 50 24 AM" src="https://user-images.githubusercontent.com/58205103/172128787-217d852f-a624-4d46-a84b-ca800c25e25d.png">
 
 
+- This map level design starts with a very simple spike trap on the **first layer of the cave** and there are only two slime enemies. As you go deeper into the **second layer of the cave**, you notice there are more green slime enemies that is been spawn and spawning more traps and introduce new trap called "the raining spikes". Once you reach out to the **purple layer of the cave**, 
+
 
 ## Press Kit and Trailer
 
